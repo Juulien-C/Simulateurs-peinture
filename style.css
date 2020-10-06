@@ -1,0 +1,22 @@
+.bloc-btn{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
+
+.bloc-btn a{
+    margin: 15px;
+    max-height: 350px;
+}
+
+
+#cuisine{
+    display:block;
+}
+
+a.btn-select{
+    border: 2px solid red;
+}
+
+
